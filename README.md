@@ -18,6 +18,4 @@ First of all, the compiler is written in **[Rust](https://www.rust-lang.org/)**.
 
 <p align="center">
   <img src= "https://github.com/thrushlang/how-it-works/blob/master/assets/what da heck compile thrushc.png" alt= "logo" style= "width: 2hv; height: 2hv;"> </img>
-</p>
-
-### ¿How does the thrushc compiler 
+</p
