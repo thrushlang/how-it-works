@@ -19,3 +19,5 @@ First of all, the compiler is written in **[Rust](https://www.rust-lang.org/)**.
 <p align="center">
   <img src= "https://github.com/thrushlang/how-it-works/blob/master/assets/what%20da%20heck%20compile%20thrushc%3F.png" alt= "logo" style= "width: 2hv; height: 2hv;"> </img>
 </p
+
+And at the end of the day, that's how the Thrush compiler works, at least currently.
